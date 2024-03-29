@@ -11,3 +11,14 @@ let cssBadges = new Number('7');
 let totalBadges = htmlBadges + cssBadges;
 
 console.log('Woaw, you have ' + totalBadges + "!");
+
+// Exercices 1.1 - Interactive mode 
+
+let a = 5 ;  
+let b = 11 ;
+
+console.log(a + b);
+console.log(a - b);
+console.log(b / a);
+console.log(a * b);
+console.log(b%a);
