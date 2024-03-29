@@ -3,3 +3,4 @@ let arr = ["Adrien.C", "Adrien.B", "Angel","Arnaud VA","Denis.L","Dylan","Dzheyl
 for (let elem of arr) {
   console.log("Name " + elem);
 }
+
