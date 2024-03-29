@@ -23,6 +23,15 @@ console.log(b / a);
 console.log(a * b);
 console.log(b%a);
 
-// Exercice 1.1 
+//Exercise 1.1 
 let food = 'pizza';
 console.log(food);
+
+// Exercise 1.2
+
+let name = 'Masy';
+let firstName = 'Jordan';
+let city = 'Aiseau-Presles';
+
+console.log('Your name is '+name''+firstname" and you live in "+city);
+
