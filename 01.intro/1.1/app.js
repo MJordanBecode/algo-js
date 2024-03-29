@@ -22,3 +22,7 @@ console.log(a - b);
 console.log(b / a);
 console.log(a * b);
 console.log(b%a);
+
+// Exercice 1.1 
+let food = 'pizza';
+console.log(food);
