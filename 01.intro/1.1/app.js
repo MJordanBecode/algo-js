@@ -33,5 +33,4 @@ let name = 'Masy';
 let firstName = 'Jordan';
 let city = 'Aiseau-Presles';
 
-console.log('Your name is '+name''+firstname" and you live in "+city);
-
+console.log("Your name is " + name + " " + firstName + " and you live in " + city);
